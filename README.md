@@ -1,2 +1,4 @@
 # tutorial_hello
-This is a demo repository Author ~ Aditya sharma
+This is a demo repository
+<br>
+Author ~ Aditya sharma
